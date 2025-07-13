@@ -1,0 +1,12 @@
+drop database db;
+create database db;
+use db
+
+CREATE TABLE downloads (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    filename VARCHAR(255),
+    username VARCHAR(255),
+    download_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+commit;
