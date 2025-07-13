@@ -27,7 +27,7 @@ A final-year project focused on **efficient, low-latency, and fault-tolerant rep
   ## How to Run
    1. Install Java 17 and MySQL.
    2. Clone this repository:
-    - git clone https://github.com/yourusername/decentralized-replica-management.git
+    https://github.com/sanjai104/decentralized-replica-management.git
    3. Set up the MySQL DB using the db file
    4. Open project in NetBeans
    5. Add mysql-connector-java if not already in your Maven repo.
